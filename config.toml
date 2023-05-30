@@ -22,8 +22,8 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Daniel Granhão"
-intro = "Bitcoin/Lightning Software Engineer"
-description = "Working to build the future of payments."
+intro = "Software Engineer"
+description = ""
 authorimage = "profile_pic.jpeg"
 dateformat = "Jan 2, 2006"
 
